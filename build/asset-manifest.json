@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alone-Kitchen/static/css/main.cf890fdb.css",
+    "main.js": "/Alone-Kitchen/static/js/main.43620dc6.js",
+    "index.html": "/Alone-Kitchen/index.html",
+    "main.cf890fdb.css.map": "/Alone-Kitchen/static/css/main.cf890fdb.css.map",
+    "main.43620dc6.js.map": "/Alone-Kitchen/static/js/main.43620dc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.43620dc6.js"
+  ]
+}
