@@ -80,9 +80,8 @@
           </main>
 
           <Footer />
-        </Router>
+        </Router> 
       </div>
     );
   }
-
   export default App;

@@ -85,15 +85,19 @@ function Footer() {
           </div>
         </div>
       </div>
+       {/* <div className="bg-gray-950 py-6 mt-12 text-gray-400 text-center text-sm"> */}
+        <div className="container mx-auto px-4 flex justify-between items-center flex-wrap">
+          <p>&copy; 2023 AloneKitchen. ALL RIGHTS RESERVED.</p> </div>
+          <p className="text-orange-500 uppercase tracking-widest container mx-auto px-4 flex justify-between items-center flex-wrap">Taste the Difference</p>
 
-      {/* Bottom copyright section */}
+      {/* Bottom copyright section
       <div className="bg-gray-950 py-6 mt-12 text-gray-400 text-center text-sm">
         <div className="container mx-auto px-4 flex justify-between items-center flex-wrap">
           <p>&copy; 2023 AloneKitchen. ALL RIGHTS RESERVED.</p>
           <p className="text-white font-bold tracking-wider">Alone Kitchen</p>
           <p className="text-orange-500 uppercase tracking-widest">Taste the Difference</p>
         </div>
-      </div>
+      </div> */}
     </footer>
   );
 }
